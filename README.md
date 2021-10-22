@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dhodkiewicz
-- 👀 I’m interested in technology, trading stocks/options, AI, and the outdoors!
+- 👋 Hi, I’m @Dalton
+- 👀 I’m interested in technology as a whole, software, trading stocks/options, AI, and the outdoors!
 - 🌱 I’m currently learning about advanced MSSQL practices and machine learning!
 - 💞️ I’m looking to collaborate on anything that involves starter AI projects.
 - 📫 How to reach me ... dalton.hodkiewicz@mymail.nwtc.edu

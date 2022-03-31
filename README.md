@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dalton
 - 👀 I’m interested in technology as a whole, software, trading stocks/options, AI, and the outdoors!
 - 🌱 I like to learn new things and be a good human.
-- 💞️ I’m looking to collaborate on anything that involves starter AI projects.
+- 💞️ I’m a business owner- I believe in multiple revenue streams and passive income.
 - 📫 How to reach me ... dalton.hodkiewicz@mymail.nwtc.edu
 
 <!---
